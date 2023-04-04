@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
  
- public class Challenge {
+ public class Suggestions {
      public static List<String> suggestions(String key) {
          ArrayList<String>suggestions = new ArrayList<String>();
          switch(key){
